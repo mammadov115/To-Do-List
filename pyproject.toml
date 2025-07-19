@@ -13,6 +13,7 @@ dependencies = [
     "dotenv (>=0.9.9,<0.10.0)",
     "requests == 2.32.4",
     "psycopg2-binary == 2.9.10",
+    "django-filter (>=25.1,<26.0)",
 ]
 
 [tool.poetry]
