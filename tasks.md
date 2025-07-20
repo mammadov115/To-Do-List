@@ -67,8 +67,8 @@
 #### 🔹 8. **(Optional) Filter / Search / Order**
 
 * [+] Tapşırıqları `is_completed` və ya `title` ilə süzmək
-* [ ] Axtarış: `?search=keyword`
-* [ ] Sıralama: `?ordering=created_at`
+* [+] Axtarış: `?search=keyword`
+* [+] Sıralama: `?ordering=created_at`
 
 ---
 
