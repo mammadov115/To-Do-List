@@ -129,7 +129,7 @@ pytest
 
 ### 👨‍💻 Author
 
-Made with ❤️ by **\[Mehman Mammadov]**
+Made with ❤️ by **Mehman Mammadov**
 [GitHub](https://github.com/mammadov115)
 
 ---
